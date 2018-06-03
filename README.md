@@ -8,8 +8,8 @@ Extract the project and run the project in Debug Mode either in IE or Chrome. Se
 
 ### Prerequisites
 
-. Visual Studio 2013 or higher
-. .NET 4.5 or higher
+* Visual Studio 2013 or higher
+* .NET 4.5 or higher
 
 ## Built With
 
